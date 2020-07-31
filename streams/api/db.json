@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "This is my stream",
+      "description": "get over it bitches!",
+      "id": 1
+    },
+    {
+      "title": "A new Stream",
+      "description": "Sexy time!",
+      "id": 2
+    },
+    {
+      "title": "Sekiro",
+      "description": "Platinum run",
+      "userId": "109029191032597524285",
+      "id": 3
+    }
+  ]
+}
